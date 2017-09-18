@@ -1,0 +1,13 @@
+Sir Clive Granger
+Born:1934-09-04;4 September 1934;Swansea; Wales;|
+Died:27 May 2009;2009-05-27;aged 74;San Diego;|
+Nationality:United Kingdom;|
+Institution:Erasmus University Rotterdam;University of California, San Diego;University of Nottingham;|
+Field:Financial economics;Econometrics;|
+Alma mater:University of Nottingham;|
+Doctoral:advisor;Harry Pitt;|
+Doctoral:students;Tony Pettitt;Jesus Gonzalo;Zhuanxin Ding;Norman Swanson;|
+Influences:David Hendry;Norbert Wiener;|
+Contributions:Cointegration;Granger causality;Autoregressive fractionally integrated moving average;|
+Awards:Nobel Memorial Prize in Economic Sciences;2003;|
+Information:at;IDEAS / RePEc;|

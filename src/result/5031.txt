@@ -1,0 +1,11 @@
+Bobby Bonds
+Born::1946-03-15;March 15, 1946;Riverside, California;|
+Died::August 23, 2003;2003-08-23;aged 57;San Carlos, California;|
+Batted::Right;Threw:;Right;|
+Batted::Right;Threw:;Right;|
+Batting average:.268;|
+Home runs:332;|
+Runs batted in:1,024;|
+Stolen bases:461;|
+San Francisco Giants:1968;–;1974;New York Yankees;1975;California Angels;1976;–;1977;Chicago White Sox;1978;Texas Rangers;1978;Cleveland Indians;1979;St. Louis Cardinals;1980;Chicago Cubs;1981;|
+3×:All-Star;1971;1973;1975;3×;Gold Glove Award;1971, 1973, 1974;|

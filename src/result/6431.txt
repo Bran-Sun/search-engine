@@ -1,0 +1,24 @@
+Personal information
+Born:1945-05-17;17 May 1945;age 72;Mysore, Karnataka;|
+Batting style:Right-hand bat;|
+Bowling style:Legbreak;|
+National side:India;|
+Test debut:cap;58;21 January 1964 v;England;|
+Last Test:12 July 1979 v;England;|
+ODI:debut;cap;20;22 February 1976 v;New Zealand;|
+Last ODI:22 February 1976 v;New Zealand;|
+Competition:Tests;ODI;FC;List A;Matches;58;1;246;7;Runs scored;167;11;600;25;Batting average;4.07;-;4.61;25;100s/50s;0/0;0/0;0/0;0/0;Top score;22;11;*;25;14;*;Balls;bowled;15963;56;53817;420;Wickets;242;3;1063;8;Bowling average;29.74;12;24.03;38.87;5 wickets in;innings;16;0;75;0;10 wickets in match;2;0;19;0;Best bowling;8/79;3/36;9/72;4/61;Catches/;stumpings;25/-;0/0;107/0;1/0;|
+Competition:Tests;ODI;FC;List A;|
+Matches:58;1;246;7;|
+Runs scored:167;11;600;25;|
+Batting average:4.07;-;4.61;25;|
+100s/50s:0/0;0/0;0/0;0/0;|
+Top score:22;11;*;25;14;*;|
+Balls:bowled;15963;56;53817;420;|
+Wickets:242;3;1063;8;|
+Bowling average:29.74;12;24.03;38.87;|
+5 wickets in:innings;16;0;75;0;|
+10 wickets in match:2;0;19;0;|
+Best bowling:8/79;3/36;9/72;4/61;|
+Catches/:stumpings;25/-;0/0;107/0;1/0;|
+Source::ESPNcricinfo; 10 November 2014;|

@@ -1,0 +1,18 @@
+Henry at the
+Born:1995-08-26;August 26, 1995;age 22;|
+Height:1.71 m 5 ft 7 in;|
+Weight:64 kg 141 lb;|
+Country:United Kingdom;|
+Sport:Athletics;|
+Event(s):100 metres;200 meters;and;400 meters;|
+Coached by:Rana Reider;|
+Medal record:Women's;athletics;Representing;Great Britain;Olympic Games;2016 Rio de Janeiro;4×100 m relay;World Championships;2017 London;4×100 m relay;European Championships;2014 Zürich;4×100 m relay;European Junior Championships;2013 Rieti;4×100 m relay;2013 Rieti;200 m;World Youth Championships;2011 Lille;200 m;World Relays;2014 Nassau;4×200 m relay;|
+Women's:athletics;|
+Representing:Great Britain;|
+2016 Rio de Janeiro:4×100 m relay;|
+2017 London:4×100 m relay;|
+2014 Zürich:4×100 m relay;|
+2013 Rieti:4×100 m relay;|
+2013 Rieti:200 m;|
+2011 Lille:200 m;|
+2014 Nassau:4×200 m relay;|

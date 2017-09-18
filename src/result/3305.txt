@@ -1,0 +1,11 @@
+David Sánchez
+Real name:David Sánchez Cantú;|
+Weight(s):Super Flyweight;|
+Nationality:Mexican;|
+Born:1992-02-02;2 February 1992;Miguel Alemán;Sonora;Mexico;|
+Died:19 May 2017;2017-05-19;aged 25;|
+Total fights:37;|
+Wins:31;|
+Wins by KO:23;|
+Losses:4;|
+Draws:2;|

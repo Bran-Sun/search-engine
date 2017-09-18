@@ -1,0 +1,11 @@
+William Hoy
+Born::1862-05-23;May 23, 1862;Houcktown, Ohio; United States;|
+Died::December 15, 1961;1961-12-15;aged 99;Cincinnati;|
+Batted::Left;Threw:;Right;|
+Batted::Left;Threw:;Right;|
+Batting average:.288;|
+Hits:2,044;|
+Runs batted in:725;|
+Stolen bases:607;|
+Washington Nationals:1888;–;1889;Buffalo Bisons;1890;St. Louis Browns;1891;Washington Senators;1892;–;1893;Cincinnati Reds;1894;–;1897;Louisville Colonels;1898;–;1899;Chicago White Sox;1901;Cincinnati Reds;1902;|
+NL stolen base leader:1888;Cincinnati Reds Hall of Fame;|

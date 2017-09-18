@@ -1,0 +1,8 @@
+Bertrand Meyer
+Born:1950-11-21;November 21, 1950;age 66;|
+Nationality:French;|
+Alma mater:Université de Nancy;Stanford University;École Polytechnique;|
+Occupation:Professor;|
+Employer:ETH Zürich;|
+Known for:Eiffel;design by contract;|
+Website:bertrandmeyer;.com;|

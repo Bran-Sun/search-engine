@@ -1,0 +1,27 @@
+Stan Fox
+Nationality:American;|
+Born:1952-07-07;July 7, 1952;Janesville, Wisconsin;|
+Died:December 18, 2000;2000-12-18;aged 48;Waiouru, New Zealand;|
+Champ Car:career;|
+Years active:1984;1987;–;1995;|
+Team(s):Pabst Racing;A. J. Foyt Enterprises;Kent Baker Racing;Hemelgarn Racing;|
+Best finish:24th ;1991;|
+First race:1984;Dana-Rex Mays 200;Milwaukee;|
+Last race:1995;Indianapolis 500;Indianapolis;|
+Wins:Podiums;Poles;0;0;0;|
+Wins:Podiums;Poles;|
+0:0;0;|
+Monster Energy:NASCAR;Cup Series;career;|
+Best finish:68th ;1992;|
+First race:1992;DieHard 500;Talladega;|
+Last race:1992;Champion Spark Plug 400;Michigan;|
+Wins:Top tens;Poles;0;0;0;|
+Wins:Top tens;Poles;|
+0:0;0;|
+NASCAR:Camping World Truck Series;career;|
+Best finish:67th ;1995;|
+First race:1995;Racing Champions 200;Tucson;|
+Last race:1995;Ford Credit 125;Mesa Marin;|
+Wins:Top tens;Poles;0;0;0;|
+Wins:Top tens;Poles;|
+0:0;0;|

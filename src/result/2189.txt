@@ -1,0 +1,16 @@
+Alan Turing
+Born:1912-06-23;23 June 1912;Maida Vale; London, England, United Kingdom;|
+Died:7 June 1954;1954-06-07;aged 41;Wilmslow;Cheshire; England, United Kingdom;|
+Cause of death:Cyanide poisoning;|
+Resting place:Ashes scattered near;Woking Crematorium;|
+Residence:Wilmslow;Cheshire;England;|
+Education:Sherborne School;|
+Alma mater:King's College, Cambridge;BA;Princeton University;PhD;|
+Known for:Cryptanalysis of the Enigma;Turing's proof;Turing machine;Turing test;Unorganised machine;LU decomposition;|
+Awards:Smith's Prize;1936;|
+Fields:Mathematics;cryptanalysis;logic;computer science;mathematical and theoretical biology;|
+Institutions:Victoria University of Manchester;Government Code and Cypher School;National Physical Laboratory;|
+Thesis:Systems of Logic Based on Ordinals;1938;|
+Doctoral advisor:Alonzo Church;|
+Doctoral students:Robin Gandy;|
+Influences:Max Newman;|

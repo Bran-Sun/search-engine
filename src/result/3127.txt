@@ -1,0 +1,21 @@
+Mike Hailwood
+Nationality:British;|
+Born:1940-04-02;2 April 1940;|
+Died:23 March 1981;1981-03-23;aged 40;|
+Motorcycle racing career statistics:Grand Prix motorcycle racing;Active years;1958;–;1967;First race;1958 250cc Isle of Man TT;Last race;1967;350cc;Japanese Grand Prix;First win;1959;125cc;Ulster Grand Prix;Last win;1967;350cc;Japanese Grand Prix;Teams;Honda;MV Agusta;Championships;250cc -;1961;1966;1967;350cc -;1966;1967;500cc -;1962;1963;1964;1965;Starts;Wins;Podiums;Poles;F. laps;Points;152;76;112;N/A;79;Isle of Man TT;career;TTs contested;12 ;1958;-;1967;1978;1979;TT wins;14;First TT win;1961 Lightweight 125 TT;Last TT win;1979 Senior TT;Podiums;19;|
+Active years:1958;–;1967;|
+First race:1958 250cc Isle of Man TT;|
+Last race:1967;350cc;Japanese Grand Prix;|
+First win:1959;125cc;Ulster Grand Prix;|
+Last win:1967;350cc;Japanese Grand Prix;|
+Team(s):Honda;MV Agusta;|
+Championships:250cc -;1961;1966;1967;350cc -;1966;1967;500cc -;1962;1963;1964;1965;|
+Starts:Wins;Podiums;Poles;F. laps;Points;152;76;112;N/A;79;|
+Starts:Wins;Podiums;Poles;F. laps;Points;|
+152:76;112;N/A;79;|
+Isle of Man TT:career;|
+TTs contested:12 ;1958;-;1967;1978;1979;|
+TT wins:14;|
+First TT win:1961 Lightweight 125 TT;|
+Last TT win:1979 Senior TT;|
+Podiums:19;|

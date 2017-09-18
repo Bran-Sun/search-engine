@@ -1,0 +1,16 @@
+Babe Ruth
+Outfielder:/;Pitcher;|
+Born::1895-02-06;February 6, 1895;Baltimore, Maryland;|
+Died::August 16, 1948;1948-08-16;aged 53;Manhattan, New York;|
+Batted::Left;Threw:;Left;|
+Batted::Left;Threw:;Left;|
+Batting average:.342;|
+Hits:2,873;|
+Home runs:714;|
+Runs batted in:2,213;|
+Win–loss record:94–46;|
+Earned run average:2.28;|
+Boston Red Sox:1914;–;1919;New York Yankees;1920;–;1934;Boston Braves;1935;|
+2×:All-Star;1933;1934;7×;World Series;champion ;1915;1916;1918;1923;1927;1928;1932;AL MVP;1923;AL batting champion;1924;12×;AL home run leader;1918–1921, 1923, 1924, 1926–1931;6×;AL RBI leader;1919–1921, 1923, 1926, 1928;AL ERA leader;1916;New York Yankees No. 3;retired;Boston Red Sox Hall of Fame;Major League Baseball All-Century Team;Major League Baseball All-Time Team;Other career achievements and records;|
+Inducted:1936;|
+Vote:95.13%;|

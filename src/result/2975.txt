@@ -1,0 +1,8 @@
+Professor Moshe Vardi
+Born:1954 age 62–63;Israel;|
+Alma mater:Bar-Ilan University;Weizmann Institute of Science;Hebrew University;|
+Awards:Gödel Prize;2000;|
+Website:www;.cs;.rice;.edu;/~vardi;|
+Institutions:Rice University;IBM Almaden Research Center;Stanford University;|
+Thesis:The Implication Problem for Data Dependencies in the Relational Model;1981;|
+Doctoral advisor:Catriel Beeri;|

@@ -1,0 +1,10 @@
+Bob Moose
+Born::1947-10-09;October 9, 1947;Export, Pennsylvania;|
+Died::October 9, 1976;1976-10-09;aged 29;Martins Ferry, Ohio;|
+Batted::Right;Threw:;Right;|
+Batted::Right;Threw:;Right;|
+Win–loss record:76–71;|
+Earned run average:3.50;|
+Strikeouts:827;|
+Pittsburgh Pirates:1967;–;1976;|
+World Series:champion ;1971;Pitched a;no-hitter;on September 20, 1969;|

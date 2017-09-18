@@ -1,0 +1,15 @@
+Kouki Takahashi
+Nationality:Japan;|
+Born:1987-09-03;3 September 1987;Saitama;Japan;|
+Died:24 April 2011;2011-04-24;aged 23;Saitama;Japan;|
+Motorcycle racing career statistics:Moto2 World Championship;Active years;2010;Manufacturers;RBB;Starts;Wins;Podiums;Poles;F. laps;Points;1;0;0;0;0;0;250cc World Championship;Active years;2005;–;2006;Manufacturers;Honda;Starts;Wins;Podiums;Poles;F. laps;Points;2;0;0;0;0;0;|
+Active years:2010;|
+Manufacturers:RBB;|
+Starts:Wins;Podiums;Poles;F. laps;Points;1;0;0;0;0;0;|
+Starts:Wins;Podiums;Poles;F. laps;Points;|
+1:0;0;0;0;0;|
+Active years:2005;–;2006;|
+Manufacturers:Honda;|
+Starts:Wins;Podiums;Poles;F. laps;Points;2;0;0;0;0;0;|
+Starts:Wins;Podiums;Poles;F. laps;Points;|
+2:0;0;0;0;0;|

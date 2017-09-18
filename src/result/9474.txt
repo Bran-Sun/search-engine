@@ -1,0 +1,8 @@
+Plautus
+Bust:of Plautus;|
+Born:Sarsina;Italy;|
+Died:184 BC;Rome;Italy;|
+Nationality:Roman;|
+Period:Ancient Rome;|
+Genre:Comedy;|
+Dramatic devices:Stock characters;|

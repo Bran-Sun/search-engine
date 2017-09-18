@@ -1,0 +1,10 @@
+Whitey Kurowski
+Born::1918-04-19;April 19, 1918;Reading, Pennsylvania;|
+Died::December 9, 1999;1999-12-09;aged 81;Sinking Spring, Pennsylvania;|
+Batted::Right;Threw:;Right;|
+Batted::Right;Threw:;Right;|
+Batting average:.286;|
+Home runs:106;|
+Runs batted in:529;|
+St. Louis Cardinals:1941;–;1949;|
+5×:All-Star;1943;–;1947;3×;World Series;champion ;1942;1944;1946;|

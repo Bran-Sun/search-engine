@@ -1,0 +1,10 @@
+Personal information
+Full name:Gary Robert Mara;|
+Born:1962-08-09;9 August 1962;|
+Died:21 August 2012;2012-08-21;aged 50;Los Angeles;California;United States;|
+Club:Years;Team;Pld;T;G;FG;P;1982;Balmain Tigers;1;0;0;0;0;1984;Parramatta Eels;2;0;3;0;6;Total;3;0;3;0;6;|
+Years:Team;Pld;T;G;FG;P;|
+1982:Balmain Tigers;1;0;0;0;0;|
+1984:Parramatta Eels;2;0;3;0;6;|
+Total:3;0;3;0;6;|
+Source::Rugby League Project;|

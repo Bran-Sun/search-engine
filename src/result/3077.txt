@@ -1,0 +1,8 @@
+Mike Darr
+Born::1976-03-21;March 21, 1976;Peoria, Arizona;|
+Died::February 15, 2002;2002-02-15;aged 25;Peoria, Arizona;|
+Batted::Left;Threw:;Right;|
+Batted::Left;Threw:;Right;|
+Games played:Batting average;Home runs;188;.273;5;|
+RBI:Stolen bases;On-base percentage;67;6;.363;|
+San Diego Padres:1999–2001;|

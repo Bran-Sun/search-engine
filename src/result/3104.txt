@@ -1,0 +1,24 @@
+Giuseppe Farina
+Nationality:Italian;|
+Born:1906-10-30;30 October 1906;Turin;Piedmont; Italy;|
+Died:30 June 1966;1966-06-30;aged 59;Aiguebelle;Savoie; France;|
+Formula One:World Championship career;Active years;1950;–;1957;Teams;Alfa Romeo;Ferrari;Lancia;Entries;36 33 starts;Championships;1 ;1950;Wins;5;Podiums;20;[note 1];Career points;115;1;⁄;3;127;1;⁄;3;[note 2];Pole positions;5;Fastest laps;5;First entry;1950 British Grand Prix;First win;1950 British Grand Prix;Last win;1953 German Grand Prix;Last entry;1957 Indianapolis 500;|
+Formula One:World Championship career;|
+Active years:1950;–;1957;|
+Teams:Alfa Romeo;Ferrari;Lancia;|
+Entries:36 33 starts;|
+Championships:1 ;1950;|
+Wins:5;|
+Podiums:20;[note 1];|
+Career points:115;1;⁄;3;127;1;⁄;3;[note 2];|
+Pole positions:5;|
+Fastest laps:5;|
+First entry:1950 British Grand Prix;|
+First win:1950 British Grand Prix;|
+Last win:1953 German Grand Prix;|
+Last entry:1957 Indianapolis 500;|
+24 Hours of Le Mans:career;Years;1953;Teams;Scuderia Ferrari;Best finish;DISQ;|
+24 Hours of Le Mans:career;|
+Years:1953;|
+Teams:Scuderia Ferrari;|
+Best finish:DISQ;|

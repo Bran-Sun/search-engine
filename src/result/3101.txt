@@ -1,0 +1,8 @@
+Nationality:Norwegian;|
+Born:1974-06-08;8 June 1974;Asker; Norway;|
+Died:4 August 2003;2003-08-04;aged 29;Moss; Norway;|
+Country:Norway;|
+Sport:Track and field;Boxing;|
+Event(s):Javelin throw;|
+Club:Asker SK, IK Tjalve;|
+Personal best(s):Javelin throw: 86.74 m;|

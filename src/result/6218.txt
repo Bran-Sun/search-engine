@@ -1,0 +1,9 @@
+Derek Bell
+Born::1968-12-11;December 11, 1968;age 48;Tampa, Florida;|
+Batted::Right;Threw:;Right;|
+Batted::Right;Threw:;Right;|
+Batting average:.276;|
+Home runs:134;|
+Runs batted in:668;|
+Toronto Blue Jays:1991;–;1992;San Diego Padres;1993;–;1994;Houston Astros;1995;–;1999;New York Mets;2000;Pittsburgh Pirates;2001;|
+World Series:champion ;1992;|

@@ -1,0 +1,25 @@
+Full name:Walter James Lewis;|
+Nickname:The King, The Emperor of Lang Park;|
+Born:1959-12-01;1 December 1959;age 57;Hawthorne;Queensland;Australia;|
+Height:182 cm 5 ft;11;1;⁄;2;in;|
+Weight:95 kg 14 st 13 lb; 209 lb;|
+Position:Five-eighth;Lock;|
+Club:Years;Team;Pld;T;G;FG;P;1978–83;Fortitude Valley;135;4;0;0;16;1983–84;Wakefield Trinity;10;6;0;0;24;1984–87;Wynnum-Manly;76;0;0;0;0;1988–90;Brisbane Broncos;46;20;11;0;102;1991–92;Gold Coast;34;6;3;0;30;Total;301;36;14;0;172;Representative;Years;Team;Pld;T;G;FG;P;197?–8?;Brisbane;1979–91;Queensland;38;10;2;2;44;1981–91;Australia;34;11;0;2;45;|
+Years:Team;Pld;T;G;FG;P;|
+1978–83:Fortitude Valley;135;4;0;0;16;|
+1983–84:Wakefield Trinity;10;6;0;0;24;|
+1984–87:Wynnum-Manly;76;0;0;0;0;|
+1988–90:Brisbane Broncos;46;20;11;0;102;|
+1991–92:Gold Coast;34;6;3;0;30;|
+Total:301;36;14;0;172;|
+Years:Team;Pld;T;G;FG;P;|
+197?–8?:Brisbane;|
+1979–91:Queensland;38;10;2;2;44;|
+1981–91:Australia;34;11;0;2;45;|
+Club:Years;Team;Gms;W;D;L;W%;1986–87;Wynnum-Manly;1992–93;Gold Coast;44;7;1;36;16;Total;44;7;1;36;16;Representative;Years;Team;Gms;W;D;L;W%;1993–94;Queensland;6;2;0;4;33;|
+Years:Team;Gms;W;D;L;W%;|
+1986–87:Wynnum-Manly;|
+1992–93:Gold Coast;44;7;1;36;16;|
+Total:44;7;1;36;16;|
+Years:Team;Gms;W;D;L;W%;|
+1993–94:Queensland;6;2;0;4;33;|

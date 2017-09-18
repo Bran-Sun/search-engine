@@ -1,0 +1,12 @@
+Hal Lanier
+Infielder:/;Manager;|
+Born::1942-07-04;July 4, 1942;age 75;Denton, North Carolina;|
+Batted::Right;Threw:;Right;|
+Batted::Right;Threw:;Right;|
+Batting average:.228;|
+Home runs:8;|
+Runs batted in:273;|
+Managerial record:254–232;|
+Winning %:.523;|
+As player:San Francisco Giants;1964;–;1971;New York Yankees;1972;–;1973;As manager;Houston Astros;1986;–;1988;|
+World Series:champion ;1982;NL Manager of the Year;1986;|

@@ -1,0 +1,13 @@
+Billy Martin
+Second baseman:/;Manager;|
+Born::1928-05-16;May 16, 1928;Berkeley, California;|
+Died::December 25, 1989;1989-12-25;aged 61;Johnson City, New York;|
+Batted::Right;Threw:;Right;|
+Batted::Right;Threw:;Right;|
+Batting average:.257;|
+Home runs:64;|
+Runs batted in:333;|
+Managerial record:1,253–1,013;|
+Winning %:.553;|
+As player:New York Yankees;1950;–;1957;Kansas City Athletics;1957;Detroit Tigers;1958;Cleveland Indians;1959;Cincinnati Reds;1960;Milwaukee Braves;1961;Minnesota Twins;1961;As coach;Minnesota Twins;1965;–;1968;As manager;Minnesota Twins;1969;Detroit Tigers;1971;–;1973;Texas Rangers;1973;–;1975;New York Yankees;1975;–;1978;1979;Oakland Athletics;1980;–;1982;New York Yankees;1983;1985;1988;|
+All-Star:1956;5×;World Series;champion ;1951;–;1953;1956;1977;New York Yankees No. 1;retired;|

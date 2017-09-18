@@ -1,0 +1,13 @@
+Personal information
+Born:1968-08-19;age 49;Athens; Greece;|
+Medal record:Men's;sailing;Representing;Greece;Olympic Games;1996 Atlanta;Windsurfing-Mistral;2004 Athens;Windsurfing-Mistral;Windsurfing World Championships;1996 Haifa;Mistral;2000;Mar del Plata;Mistral;2001;Varkiza;Mistral;1995;Port Elizabeth;Mistral;2003 Cadiz;Mistral;Mediterranean Games;1993 Languedoc-Roussillon;Mistral;|
+Men's:sailing;|
+Representing:Greece;|
+1996 Atlanta:Windsurfing-Mistral;|
+2004 Athens:Windsurfing-Mistral;|
+1996 Haifa:Mistral;|
+2000:Mar del Plata;Mistral;|
+2001:Varkiza;Mistral;|
+1995:Port Elizabeth;Mistral;|
+2003 Cadiz:Mistral;|
+1993 Languedoc-Roussillon:Mistral;|

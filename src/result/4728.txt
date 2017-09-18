@@ -1,0 +1,16 @@
+Full name:Andrew Gary Johns;|
+Nickname:Joey;|
+Born:1974-05-19;19 May 1974;age 43;Cessnock, New South Wales;Australia;|
+Height:179 cm 5 ft 10 in;|
+Weight:89 kg 14 st 0 lb;|
+Position:Halfback;Hooker;|
+Club:Years;Team;Pld;T;G;FG;P;1993–07;Newcastle Knights;249;80;917;22;2176;2005;Warrington Wolves;3;1;12;1;29;Total;252;81;929;23;2205;Representative;Years;Team;Pld;T;G;FG;P;1995–03;Country Origin;3;1;7;0;18;1995–05;New South Wales;23;4;37;4;94;1995–06;Australia;24;7;78;0;184;|
+Years:Team;Pld;T;G;FG;P;|
+1993–07:Newcastle Knights;249;80;917;22;2176;|
+2005:Warrington Wolves;3;1;12;1;29;|
+Total:252;81;929;23;2205;|
+Years:Team;Pld;T;G;FG;P;|
+1995–03:Country Origin;3;1;7;0;18;|
+1995–05:New South Wales;23;4;37;4;94;|
+1995–06:Australia;24;7;78;0;184;|
+Source::Rugby League Project;|

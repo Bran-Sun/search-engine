@@ -1,0 +1,18 @@
+Buzz Aldrin
+NASA:Astronaut;|
+Nationality:American;|
+Status:Retired;|
+Born:1930-01-20;January 20, 1930;age 87;Glen Ridge, New Jersey; U.S.;|
+Other names:Dr. Rendezvous;|
+Other occupation:Fighter pilot;|
+Alma mater:United States Military Academy; B.S. 1951;Massachusetts Institute of Technology; Sc.D. 1963;|
+Rank:Colonel;USAF;|
+Time in space:12 days 1 hour and 52 minutes;|
+Selection:1963 NASA Group 3;|
+Total:EVAs;4;|
+Total EVA time:7 hours 52 minutes;|
+Missions:Gemini 12;Apollo 11;|
+Retirement:July 1, 1971;|
+Website:www;.buzzaldrin;.com;|
+Spouse(s):Joan Ann Archer ;m.;1954;;div.;1974;Beverly Van Zile ;m.;1975;;div.;1978;Lois Driggs Cannon ;m.;1988;;div.;2012;|
+Children:3;|

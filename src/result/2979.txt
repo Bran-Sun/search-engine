@@ -1,0 +1,15 @@
+Norifumi Abe
+Nationality:Japanese;|
+Born:1975-09-07;7 September 1975;Setagaya, Tokyo, Japan;|
+Died:7 October 2007;2007-10-07;aged 32;Kawasaki, Kanagawa, Japan;|
+Motorcycle racing career statistics:Grand Prix motorcycle racing;Active years;1994;–;2004;First race;1994;500 cc;Japanese Grand Prix;Last race;2004;MotoGP;Valencia Grand Prix;First win;1996;500 cc;Japanese Grand Prix;Last win;2000;500 cc;Japanese Grand Prix;Teams;Yamaha;Championships;None;Starts;Wins;Podiums;Poles;F. laps;Points;144;3;17;0;1;1157;|
+Active years:1994;–;2004;|
+First race:1994;500 cc;Japanese Grand Prix;|
+Last race:2004;MotoGP;Valencia Grand Prix;|
+First win:1996;500 cc;Japanese Grand Prix;|
+Last win:2000;500 cc;Japanese Grand Prix;|
+Team(s):Yamaha;|
+Championships:None;|
+Starts:Wins;Podiums;Poles;F. laps;Points;144;3;17;0;1;1157;|
+Starts:Wins;Podiums;Poles;F. laps;Points;|
+144:3;17;0;1;1157;|

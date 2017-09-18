@@ -1,0 +1,12 @@
+Full name:John Konrads;|
+National team:Australia;|
+Born:1942-05-21;21 May 1942;age 75;Riga, Latvia;|
+Height:1.79 m 5 ft 10 in;|
+Weight:84 kg 185 lb;|
+Sport:Swimming;|
+Strokes:Freestyle;|
+Medal record:Men's swimming;Representing;Australia;Olympic Games;1960 Rome;1500 m freestyle;1960 Rome;400 m freestyle;1960 Rome;4x200 m freestyle relay;|
+Representing:Australia;|
+1960 Rome:1500 m freestyle;|
+1960 Rome:400 m freestyle;|
+1960 Rome:4x200 m freestyle relay;|

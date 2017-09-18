@@ -1,0 +1,9 @@
+Anthony Young
+Born::1966-01-19;January 19, 1966;Houston;Texas;|
+Died::June 27, 2017;2017-06-27;aged 51;Houston, Texas;|
+Batted::Right;Threw:;Right;|
+Batted::Right;Threw:;Right;|
+Win–loss record:15–48;|
+Earned run average:3.89;|
+Strikeouts:245;|
+New York Mets:1991;–;1993;Chicago Cubs;1994;–;1995;Houston Astros;1996;|

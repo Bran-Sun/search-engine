@@ -1,0 +1,23 @@
+Full name:Kelly Holmes;|
+Nationality:British;|
+Born:1970-04-19;19 April 1970;age 47;|
+Residence:Hildenborough;Kent; England;|
+Height:1.64 m 5 ft;4;1;⁄;2;in;|
+Sport:Running;|
+Event(s):800 metres;1500 metres;|
+Medal record:Women's;athletics;Representing;Great Britain;Olympic Games;2004 Athens;800 m;2004 Athens;1500 m;2000 Sydney;800 m;World Championships;1995 Gothenburg;1500 m;2003 Paris;800 m;1995 Gothenburg;800 m;World Indoor Championships;2003 Birmingham;1500 m;European Championships;1994 Helsinki;1500 m;2002 Munich;800 m;Representing;England;Commonwealth Games;1994 Victoria;1500 m;2002 Manchester;1500 m;1998 Kuala Lumpur;1500 m;|
+Women's:athletics;|
+Representing:Great Britain;|
+2004 Athens:800 m;|
+2004 Athens:1500 m;|
+2000 Sydney:800 m;|
+1995 Gothenburg:1500 m;|
+2003 Paris:800 m;|
+1995 Gothenburg:800 m;|
+2003 Birmingham:1500 m;|
+1994 Helsinki:1500 m;|
+2002 Munich:800 m;|
+Representing:England;|
+1994 Victoria:1500 m;|
+2002 Manchester:1500 m;|
+1998 Kuala Lumpur:1500 m;|

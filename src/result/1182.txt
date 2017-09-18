@@ -1,0 +1,41 @@
+Nationality:Chinese;|
+Born:1992-12-12;12 December 1992;age 24;Nantong;Jiangsu;|
+Height:1.58 m 5 ft 2 in;|
+Weight:47 kg 104 lb;|
+Sport:Diving;|
+Event(s):10 m, 10 m synchro;|
+Coached by:Ren Shaofen;|
+Medal record:Event;1;st;2;nd;3;rd;Olympic Games;5;–;–;World Championships;6;3;1;FINA Diving World Cup;6;1;–;Asian Games;2;1;–;Olympic Games;2008 Beijing;10 m;2008 Beijing;10 m synchro;2012 London;10 m;2012 London;10 m synchro;2016 Rio de Janeiro;10 m synchro;World Championships;2007;10 m synchro;2009;10 m synchro;2011;10 m;2011;10 m synchro;2013;10 m synchro;2015 Kazan;10 m synchro;2007;10 m;2009;10 m;2013;10 m;2015 Kazan;Team;FINA Diving World Cup;2006;10 m synchro;2008;10 m;2008;10 m synchro;2010;10 m synchro;2012;10 m;2012;10 m synchro;2010;10 m;Asian Games;2014;10 m synchro;2006;10 m synchro;2010;10 m synchro;2006;10 m;Universiade;2011;10 m synchro;|
+Event:1;st;2;nd;3;rd;Olympic Games;5;–;–;World Championships;6;3;1;FINA Diving World Cup;6;1;–;Asian Games;2;1;–;|
+Event:1;st;2;nd;3;rd;|
+Olympic Games:5;–;–;|
+World Championships:6;3;1;|
+FINA Diving World Cup:6;1;–;|
+Asian Games:2;1;–;|
+2008 Beijing:10 m;|
+2008 Beijing:10 m synchro;|
+2012 London:10 m;|
+2012 London:10 m synchro;|
+2016 Rio de Janeiro:10 m synchro;|
+2007:10 m synchro;|
+2009:10 m synchro;|
+2011:10 m;|
+2011:10 m synchro;|
+2013:10 m synchro;|
+2015 Kazan:10 m synchro;|
+2007:10 m;|
+2009:10 m;|
+2013:10 m;|
+2015 Kazan:Team;|
+2006:10 m synchro;|
+2008:10 m;|
+2008:10 m synchro;|
+2010:10 m synchro;|
+2012:10 m;|
+2012:10 m synchro;|
+2010:10 m;|
+2014:10 m synchro;|
+2006:10 m synchro;|
+2010:10 m synchro;|
+2006:10 m;|
+2011:10 m synchro;|

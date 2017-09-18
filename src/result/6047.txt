@@ -1,0 +1,15 @@
+Ji Wallace
+Country represented:Australia;|
+Born:1977-06-23;23 June 1977;age 40;Lismore; Victoria, Australia;|
+Hometown:Brisbane;|
+Height:179 cm 5 ft 10 in;|
+Discipline:Trampolining;|
+Medal record:Men's;trampoline;Representing;Australia;Olympic Games;2000 Sydney;Individual;Trampoline World Championships;1996 Vancouver;Double mini;1996 Vancouver;Double mini team;1994 Portugal;Double mini team;1998 Sydney;Double mini team;World Games;1997 Lahti;Synchro;|
+Men's:trampoline;|
+Representing:Australia;|
+2000 Sydney:Individual;|
+1996 Vancouver:Double mini;|
+1996 Vancouver:Double mini team;|
+1994 Portugal:Double mini team;|
+1998 Sydney:Double mini team;|
+1997 Lahti:Synchro;|

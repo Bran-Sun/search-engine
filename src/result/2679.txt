@@ -1,0 +1,20 @@
+Personal information
+Born:16 June 1896;Madras;|
+Died:c. January 1990;|
+Batting style:Left-hand bat LHB;|
+Bowling style:Right-arm;|
+National side:Indian;|
+Competition:Tests;First-class;Matches;2;53;Runs scored;170;2,400;Batting average;56.67;28.91;100s/50s;0/1;2/12;Top score;60;127*;Balls;bowled;{{{deliveries1}}};1,691;Wickets;{{{wickets1}}};30;Bowling average;{{{bowl avg1}}};33.06;5 wickets in;innings;{{{fivefor1}}};0;10 wickets in match;{{{tenfor1}}};0;Best bowling;{{{best bowling1}}};4/29;Catches/;stumpings;0;33;|
+Competition:Tests;First-class;|
+Matches:2;53;|
+Runs scored:170;2,400;|
+Batting average:56.67;28.91;|
+100s/50s:0/1;2/12;|
+Top score:60;127*;|
+Balls:bowled;{{{deliveries1}}};1,691;|
+Wickets:{{{wickets1}}};30;|
+Bowling average:{{{bowl avg1}}};33.06;|
+5 wickets in:innings;{{{fivefor1}}};0;|
+10 wickets in match:{{{tenfor1}}};0;|
+Best bowling:{{{best bowling1}}};4/29;|
+Catches/:stumpings;0;33;|

@@ -1,0 +1,29 @@
+Full name:Donald George Bradman;|
+Born:1908-08-27;27 August 1908;Cootamundra, New South Wales; Australia;|
+Died:25 February 2001;2001-02-25;aged 92;Kensington Park, South Australia; Australia;|
+Nickname:The Don, The Boy from Bowral, Braddles;|
+Height:5 ft 8 in 173 cm;|
+Batting style:Right-handed;|
+Bowling style:Right-arm;leg break;|
+Role:Batsman;|
+National side:Australia;|
+Test debut:cap;124;30 November 1928 v;England;|
+Last Test:18 August 1948 v;England;|
+Years:Team;|
+1927–34:New South Wales;|
+1935–49:South Australia;|
+Competition:Tests;FC;Matches;52;234;Runs scored;6,996;28,067;Batting average;99.94;95.14;100s/50s;29/13;117/69;Top score;334;452;*;Balls;bowled;160;2114;Wickets;2;36;Bowling average;36.00;37.97;5 wickets in;innings;0;0;10 wickets in match;0;0;Best bowling;1/8;3/35;Catches/;stumpings;32/–;131/1;|
+Competition:Tests;FC;|
+Matches:52;234;|
+Runs scored:6,996;28,067;|
+Batting average:99.94;95.14;|
+100s/50s:29/13;117/69;|
+Top score:334;452;*;|
+Balls:bowled;160;2114;|
+Wickets:2;36;|
+Bowling average:36.00;37.97;|
+5 wickets in:innings;0;0;|
+10 wickets in match:0;0;|
+Best bowling:1/8;3/35;|
+Catches/:stumpings;32/–;131/1;|
+Source::Cricinfo; 4 December 2014;|

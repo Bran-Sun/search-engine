@@ -1,0 +1,15 @@
+Humphrey after his retirement
+Species:Cat;|
+Sex:Male;|
+Born:London, United Kingdom;|
+Died:March 2006 aged 17/18;London, United Kingdom;|
+Nation from:British;|
+Occupation:Mouser;|
+Employer:Cabinet Office;|
+Title:Chief Mouser to the Cabinet Office;|
+Term:1989–97;|
+Predecessor:Wilberforce;|
+Successor:Sybil;|
+Owner:Cabinet Office;|
+Appearance:black and white fur;|
+Named after:Humphrey Appleby;|

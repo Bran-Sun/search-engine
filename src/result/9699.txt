@@ -1,0 +1,11 @@
+Chipper Jones
+Third baseman:/;Left fielder;|
+Born::1972-04-24;April 24, 1972;age 45;DeLand, Florida;|
+Batted::Switch;Threw:;Right;|
+Batted::Switch;Threw:;Right;|
+Batting average:.303;|
+Hits:2,726;|
+Home runs:468;|
+Runs batted in:1,623;|
+Atlanta Braves:1993;1995;–;2012;|
+8×:All-Star;1996;–;1998;2000;2001;2008;2011;2012;World Series;champion ;1995;NL MVP;1999;2×;Silver Slugger Award;1999, 2000;MLB batting champion;2008;Atlanta Braves No. 10;retired;|

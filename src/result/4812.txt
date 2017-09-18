@@ -1,0 +1,16 @@
+Smith in 2005
+Full name:Timothy Aiden Smith;|
+Born:1985-01-13;13 January 1985;age 32;Gold Coast, Queensland; Australia;|
+Height:180 cm 5 ft 11 in;|
+Weight:86 kg 13 st 8 lb;|
+Position:Halfback;Five-eighth;|
+Club:Years;Team;Pld;T;G;FG;P;2005–08;Parramatta Eels;71;11;1;0;46;2008–09;Wigan Warriors;23;2;0;0;8;2010–11;Cronulla Sharks;19;5;4;1;29;2012–14;Wakefield Trinity Wildcats;51;8;0;0;32;2014;Salford Red Devils;13;2;7;0;22;2014–15;Wakefield Trinity Wildcats;30;6;0;0;24;Total;207;34;12;1;161;|
+Years:Team;Pld;T;G;FG;P;|
+2005–08:Parramatta Eels;71;11;1;0;46;|
+2008–09:Wigan Warriors;23;2;0;0;8;|
+2010–11:Cronulla Sharks;19;5;4;1;29;|
+2012–14:Wakefield Trinity Wildcats;51;8;0;0;32;|
+2014:Salford Red Devils;13;2;7;0;22;|
+2014–15:Wakefield Trinity Wildcats;30;6;0;0;24;|
+Total:207;34;12;1;161;|
+As of 17 October 2015:Source:;RLP;Love Rugby League;|

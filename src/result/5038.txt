@@ -1,0 +1,10 @@
+Darren Daulton
+Born::1962-01-03;January 3, 1962;Arkansas City, Kansas;|
+Died::August 6, 2017;2017-08-06;aged 55;Clearwater, Florida;|
+Batted::Left;Threw:;Right;|
+Batted::Left;Threw:;Right;|
+Batting average:.245;|
+Home runs:137;|
+Runs batted in:588;|
+Philadelphia Phillies:1983;1985;–;1997;Florida Marlins;1997;|
+3×:All-Star;1992;1993;1995;World Series;champion ;1997;Silver Slugger Award;1992;NL RBI leader;1992;Philadelphia Baseball Wall of Fame;|

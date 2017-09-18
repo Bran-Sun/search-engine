@@ -1,0 +1,23 @@
+William Lockwood
+Full name:William Henry Lockwood;|
+Born:25 March 1868;Radford;Nottingham;England;|
+Died:26 April 1932 aged 64;Radford;Nottingham;England;|
+Batting style:Right-handed;|
+Bowling style:Right-arm;fast;|
+Role:Bowler;|
+National side:England;|
+Competition:Tests;First-class;Matches;12;363;Runs scored;231;10,673;Batting average;17.76;21.96;100s/50s;0/1;15/48;Top score;52*;165;Balls;bowled;1,973;52,121;Wickets;43;1,376;Bowling average;20.53;18.34;5 wickets in;innings;5;121;10 wickets in match;1;29;Best bowling;7/71;9/59;Catches/;stumpings;4/0;140/0;|
+Competition:Tests;First-class;|
+Matches:12;363;|
+Runs scored:231;10,673;|
+Batting average:17.76;21.96;|
+100s/50s:0/1;15/48;|
+Top score:52*;165;|
+Balls:bowled;1,973;52,121;|
+Wickets:43;1,376;|
+Bowling average:20.53;18.34;|
+5 wickets in:innings;5;121;|
+10 wickets in match:1;29;|
+Best bowling:7/71;9/59;|
+Catches/:stumpings;4/0;140/0;|
+Source::CricketArchive; 7 January 2013;|

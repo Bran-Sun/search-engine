@@ -1,0 +1,16 @@
+Pete Conrad
+NASA:Astronaut;|
+Nationality:American;|
+Born:1930-06-02;June 2, 1930;Philadelphia, Pennsylvania; U.S.;|
+Died:July 8, 1999;1999-07-08;aged 69;Ojai, California; U.S.;|
+Resting place:Arlington National Cemetery;|
+Other occupation:Naval aviator;test pilot;|
+Alma mater:Princeton University; B.S. 1953;|
+Rank:Captain;USN;|
+Time in space:49d 03h 38m;|
+Selection:1962 NASA Group 2;|
+Total:EVAs;4;|
+Total EVA time:12 hours 44 minutes;|
+Missions:Gemini 5;Gemini 11;Apollo 12;Skylab 2;|
+Retirement:December 1973;|
+Awards:Two;Distinguished Flying Crosses;Two;Navy Distinguished Service Medals;Two;NASA Distinguished Service Medals;Two;NASA Exceptional Service Medals;The;Congressional Space Medal of Honor;1978;The;Collier Trophy;1973;The;Harmon Trophy;1974;Navy Astronaut Wings;Gagarin Gold Space Medal;Fédération Aéronautique Internationale;|

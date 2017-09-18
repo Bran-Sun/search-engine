@@ -1,0 +1,10 @@
+Andy Marte
+Third baseman:/;First baseman;|
+Born::1983-10-21;October 21, 1983;Villa Tapia;Dominican Republic;|
+Died::January 22, 2017;2017-01-22;aged 33;San Francisco de Macorís;Dominican Republic;|
+Batted::Right;Threw:;Right;|
+Batted::Right;Threw:;Right;|
+Batting average:.218;|
+Home runs:21;|
+Runs batted in:99;|
+Atlanta Braves:2005;Cleveland Indians;2006;–;2010;Arizona Diamondbacks;2014;KT Wiz;2015;–;2016;|

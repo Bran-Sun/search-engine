@@ -1,0 +1,26 @@
+Shane Hmiel
+Born:1980-05-15;May 15, 1980;age 37;Pleasant Garden;North Carolina;|
+Awards:2001;NASCAR Goody's Dash Series;Rookie of the Year;|
+Monster Energy:NASCAR;Cup Series;career;|
+Best finish:51st ;2004;|
+First race:2004;Pop Secret 500;California;|
+Last race:2005;Food City 500;Bristol;|
+Wins:Top tens;Poles;0;0;0;|
+Wins:Top tens;Poles;|
+0:0;0;|
+NASCAR:Xfinity Series;career;|
+Best finish:15th ;2003;|
+First race:2002;EAS/GNC Live Well 300;Daytona;|
+Last race:2005;Carquest Auto Parts 300;Charlotte;|
+Wins:Top tens;Poles;0;23;4;|
+Wins:Top tens;Poles;|
+0:23;4;|
+NASCAR:Camping World Truck Series;career;|
+Best finish:13th ;2004;|
+First race:2004;Florida Dodge Dealers 250;Daytona;|
+Last race:2005;UAW-GM Ohio 250;Mansfield;|
+First win:2004;Las Vegas 350;Las Vegas;|
+Last win:2004;Las Vegas 350;Las Vegas;|
+Wins:Top tens;Poles;1;12;0;|
+Wins:Top tens;Poles;|
+1:12;0;|

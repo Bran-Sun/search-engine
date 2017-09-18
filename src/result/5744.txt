@@ -1,0 +1,17 @@
+Ty Cobb
+Center fielder:/;Manager;|
+Born::1886-12-18;December 18, 1886;Narrows, Georgia;|
+Died::July 17, 1961;1961-07-17;aged 74;Atlanta, Georgia;|
+Batted::Left;Threw:;Right;|
+Batted::Left;Threw:;Right;|
+Batting average:.367;|
+Hits:4,191;|
+Home runs:117;|
+Runs batted in:1,938;|
+Stolen bases:892;|
+Managerial record:479–444;|
+Winning %:.519;|
+As player:Detroit Tigers;1905;–;1926;Philadelphia Athletics;1927;–;1928;As manager;Detroit Tigers;1921;–;1926;|
+AL MVP:1911;Triple Crown;1909;12×;AL batting champion;1907–1915, 1917–1919;AL home run leader;1909;4×;AL RBI leader;1907–1909, 1911;6×;AL stolen base leader;1907, 1909, 1911, 1915–1917;Name honored;by the Tigers;Major League Baseball All-Century Team;MLB record .367 career batting average;|
+Inducted:1936;|
+Vote:98.2% first ballot;|

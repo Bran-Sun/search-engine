@@ -1,0 +1,8 @@
+Mihai Pătraşcu
+Born:1982-07-17;17 July 1982;Craiova; Romania;|
+Died:5 June 2012;2012-06-05;aged 29;New York City; U.S.;|
+Alma mater:Massachusetts Institute of Technology;|
+Fields:Computer Science;|
+Institutions:AT&T Labs;|
+Thesis:Lower bound techniques for data structures;2008;|
+Doctoral advisor:Erik Demaine;|

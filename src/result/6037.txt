@@ -1,0 +1,9 @@
+Glenn Burke
+Born::1952-11-16;November 16, 1952;Oakland, California;|
+Died::May 30, 1995;1995-05-30;aged 42;San Leandro, California;|
+Batted::Right;Threw:;Right;|
+Batted::Right;Threw:;Right;|
+Batting average:.237;|
+Home runs:2;|
+Runs batted in:38;|
+Los Angeles Dodgers:1976;–;1978;Oakland Athletics;1978;–;1979;|

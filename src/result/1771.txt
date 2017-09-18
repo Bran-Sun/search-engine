@@ -1,0 +1,14 @@
+Joe DiMaggio
+DiMaggio,:c.;1939;|
+Born::1914-11-25;November 25, 1914;Martinez, California;|
+Died::March 8, 1999;1999-03-08;aged 84;Hollywood, Florida;|
+Batted::Right;Threw:;Right;|
+Batted::Right;Threw:;Right;|
+Batting average:.325;|
+Hits:2,214;|
+Home runs:361;|
+Runs batted in:1,537;|
+New York Yankees:1936;–;1942;1946;–;1951;|
+13×:All-Star;1936;–;1942;1946;–;1951;9×;World Series;champion ;1936;–;1939;1941;1947;1949;–;1951;3×;AL MVP;1939, 1941, 1947;2×;AL batting champion;1939, 1940;2×;AL home run leader;1937, 1948;2×;AL RBI leader;1941, 1948;MLB record 56-game;hitting streak;New York Yankees No. 5;retired;Major League Baseball All-Century Team;|
+Inducted:1955;|
+Vote:88.84% third ballot;|

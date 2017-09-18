@@ -1,0 +1,11 @@
+Charles A. Bassett II
+NASA:Astronaut;|
+Nationality:American;|
+Born:1931-12-30;December 30, 1931;Dayton;Ohio; U.S.;|
+Died:February 28, 1966;1966-02-28;aged 34;St. Louis;Missouri; U.S.;|
+Resting place:Arlington National Cemetery;|
+Other occupation:Test pilot;|
+Alma mater:Ohio State University;Texas Tech; B.S. 1960;University of Southern California;|
+Rank:Captain;USAF;|
+Selection:1963 NASA Group 3;|
+Missions:None;|

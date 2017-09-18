@@ -1,0 +1,11 @@
+Mike Sharperson
+Third baseman:/;Second baseman;|
+Born::1961-10-04;October 4, 1961;Orangeburg, South Carolina;|
+Died::May 26, 1996;1996-05-26;aged 34;Las Vegas, Nevada;|
+Batted::Right;Threw:;Right;|
+Batted::Right;Threw:;Right;|
+Batting average:.280;|
+Home runs:10;|
+Runs batted in:123;|
+Toronto Blue Jays:1987;Los Angeles Dodgers;1987;–;1993;Atlanta Braves;1995;|
+All-Star:1992;1995 world series champion;1988 world series champion;|

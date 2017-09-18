@@ -1,0 +1,20 @@
+Personal information
+Full name:Marion Clignet;|
+Born:1964-02-21;21 February 1964;age 53;Hyde Park, Chicago; United States;|
+Discipline:Track, road;|
+Role:Rider;|
+Rider type:Pursuit, time-trialist;|
+Medal record:Representing;France;Women's;Road bicycle racing;World Championships;1991 Stuttgart;Team time trial;Women's;Track cycling;Olympic Games;1996 Atlanta;Individual pursuit;2000 Sydney;Individual pursuit;World Championships;1994 Palermo;Individual pursuit;1996 Manchester;Individual pursuit;1999 Berlin;Individual pursuit;1999 Berlin;Points race;2000 Manchester;Points race;1993 Hamar;Individual pursuit;1991 Stuttgart;Individual pursuit;|
+Representing:France;|
+Women's:Road bicycle racing;|
+1991 Stuttgart:Team time trial;|
+Women's:Track cycling;|
+1996 Atlanta:Individual pursuit;|
+2000 Sydney:Individual pursuit;|
+1994 Palermo:Individual pursuit;|
+1996 Manchester:Individual pursuit;|
+1999 Berlin:Individual pursuit;|
+1999 Berlin:Points race;|
+2000 Manchester:Points race;|
+1993 Hamar:Individual pursuit;|
+1991 Stuttgart:Individual pursuit;|

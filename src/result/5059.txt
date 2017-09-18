@@ -1,0 +1,13 @@
+Johnny Oates
+Catcher:/;Manager;|
+Born::1946-01-21;January 21, 1946;Sylva, North Carolina;|
+Died::December 24, 2004;2004-12-24;aged 58;Richmond, Virginia;|
+Batted::Left;Threw:;Right;|
+Batted::Left;Threw:;Right;|
+Batting average:.250;|
+Home runs:14;|
+Runs batted in:126;|
+Managerial record:797–746;|
+Winning %:.517;|
+As player:Baltimore Orioles;1970;1972;Atlanta Braves;1973;–;1975;Philadelphia Phillies;1975;–;1976;Los Angeles Dodgers;1977;–;1979;New York Yankees;1980;–;1981;As manager;Baltimore Orioles;1991;–;1994;Texas Rangers;1995;–;2001;As coach;Chicago Cubs;1984;–;1987;Baltimore Orioles;1989;–;1991;|
+AL Manager of the Year:1996;Texas Rangers #26;retired;Baltimore Orioles Hall of Fame;Texas Rangers Hall of Fame;|

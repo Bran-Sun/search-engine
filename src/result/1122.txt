@@ -1,0 +1,15 @@
+Bornean orangutan
+Male at the:Moscow Zoo;|
+Female with infant at the:Bojnice Zoo;|
+Critically Endangered:IUCN 3.1;|
+Kingdom::Animalia;|
+Phylum::Chordata;|
+Class::Mammalia;|
+Order::Primates;|
+Suborder::Haplorhini;|
+Infraorder::Simiiformes;|
+Family::Hominidae;|
+Genus::Pongo;|
+Species::P. pygmaeus;|
+Pongo pygmaeus:Linnaeus; 1760;|
+P. agris:Schreber, 1799;P. batangtuensis;Selenka, 1896;P. borneensis;Röhrer-Ertl, 1983;P. borneo;Lacépède, 1799;P. brookei;Blyth, 1853;P. curtus;Blyth, 1855;P. dadappensis;Selenka, 1896;P. genepaiensis;Selenka, 1896;P. landakkensis;Selenka, 1896;P. morio;Owen, 1837;P. owenii;Blyth, 1853;P. rantaiensis;Selenka, 1896;P. rufus;Lesson, 1840;P. satyrus;Linnaeus, 1766;[in part];P. skalauensis;Selenka, 1896;P. sumatranus;Mayer, 1856;P. tuakensis;Selenka, 1896;P. wallichii;Gray, 1871;P. wurmbii;Tiedemann, 1808;|

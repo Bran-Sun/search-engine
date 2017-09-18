@@ -1,0 +1,14 @@
+Dr.
+Born:1960-10-23;October 23, 1960;Baltimore;Maryland;|
+Died:July 25, 2008;2008-07-25;aged 47;Chesapeake, Virginia;|
+Cause of death:Pancreatic cancer;|
+Nationality:American;|
+Citizenship:American;|
+Alma mater:Brown University;Carnegie Mellon University;|
+Known for:Creator of;Alice;software project;Cofounder of CMU's Entertainment Technology Center;Virtual Reality Research with;Disney Imagineers;Inspirational speeches regarding life;#1 best-selling book;Battle with;cancer;|
+Spouse(s):Jai Glasgow;|
+Children:Dylan Pausch;Logan Pausch;Chloe Pausch;|
+Awards:Karl V. Karlstrom Outstanding Educator Award;ACM;Special Interest Group on Computer Science Education;Award for Outstanding Contributions to Computer Science Education;Fellow of the;ACM;Time;';s;Time 100;|
+Fields:Computer science;Human Computer Interaction;|
+Institutions:Carnegie Mellon University;University of Virginia;|
+Doctoral advisor:Alfred Spector;|

@@ -1,0 +1,12 @@
+Neil Armstrong
+USAF:/;NASA;astronaut;|
+Born:1930-08-05;August 5, 1930;Near;Wapakoneta, Ohio; U.S.;|
+Died:August 25, 2012;2012-08-25;aged 82;Cincinnati, Ohio; U.S.;|
+Previous occupation:Naval aviator;test pilot;|
+Alma mater:Purdue University; B.S. 1955;University of Southern California; M.S. 1970;|
+Rank:Lieutenant junior grade;United States Navy;|
+Time in space:8 days, 14 hours, 12 minutes, and 30 seconds;|
+Selection:1958 USAF Man In Space Soonest;1960 USAF Dyna-Soar;1962 NASA Group 2;|
+Total:EVAs;1;|
+Total EVA time:2 hours 31 minutes;|
+Missions:Gemini 8;Apollo 11;|

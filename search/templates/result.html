@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+
+{% block title %}Search_reuslt{% endblock %}
+{% block css %}
+{% load static %}
+<link rel="stylesheet" href="../static/css/model.css" type="text/css" />
+{% endblock %}
+
+{% block content %}
+<div class = "container">
+<div id="logo" style="text-align: center; margin-top: 2%">
+    {% load staticfiles %}
+    <img src="{% static "webpicture/search.png" %}" height = 120px; alt="bg image"/>
+</div>
+
+<form action="/search/" method="get">
+    <div  style="width: 100%; text-align: center;margin-top: 10; font-size:25px">
+        <input class = "input_search" type="text" name="q" maxlength="100" size="60">
+        <br />
+        Born:
+        <input class = "input_search" type="text" name="born" width = "200" height = "60"><br />
+        Nationality:
+        <input class = "input_search" type="text" name="nationality" width = "200" height = "60"><br />
+        occupation:
+        <input class = "input_search" type="text" name="occupation" width = "200" height = "60"><br />
+        <input class = "button" type="submit" value="Search">
+    </div>
+</form>
+
+<div class = "banner_two">
+	<h2>The reuslt :</h2>
+</div>
+
+<seciton class = "work_section">
+{% for person in PersonList %}
+	{% if person.label %}
+		<article class = "article_one">
+	{% else %}
+		<article class = "article_two">
+	{% endif %}
+	<article class = "article_column_one">
+	{% if person.img %} 
+		<img src="{% static person.img %}" width = 250px; height = 300px/>
+	{% else %}
+		<p>找不到图片</p>
+	{% endif %}
+	</article>
+	<article class = "article_column_two">
+		<a href="http://127.0.0.1:8000/person/{{person.id}}"><h3>{{person.name}}<h3></a>
+		<p>Born : {{person.Born}}</p><br/>
+		{% if person.Died %}
+		<p>Died : {{person.Died}}</p>
+		{% endif %}
+	</article>
+	</article>
+</article>
+
+{% endfor %}
+</seciton>
+
+<!-- 如果当前是第一页，就不显示【上一页】链接 -->  
+        {% ifnotequal curPage 1 %}  
+            <a href="?q={{ message }}&&curPage={{ curPage }}&&allPage={{ allPage }}&&pageType=pageUp">  
+                上一页  
+            </a>  
+        {% endifnotequal %}   
+  
+        第{{ curPage }}/{{ allPage }}页   
+  
+         <!-- 如果当前是最后一页，就不显示【下一页】链接 -->  
+        {% ifnotequal curPage allPage %}  
+            <a href="?q={{ message }}&&nationality={{nationality}}&&born={{born}}&&occupation={{occupation}}&&curPage={{ curPage }}&&allPage={{ allPage }}&&pageType=pageDown">  
+                下一页  
+            </a>  
+        {% endifnotequal %}  
+</div>
+{% endblock %}

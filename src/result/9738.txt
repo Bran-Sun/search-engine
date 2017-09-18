@@ -1,0 +1,15 @@
+Yogi Berra
+Catcher:/;Outfielder;/;Manager;|
+Born::1925-05-12;May 12, 1925;St. Louis, Missouri;|
+Died::September 22, 2015;2015-09-22;aged 90;West Caldwell, New Jersey;|
+Batted::Left;Threw:;Right;|
+Batted::Left;Threw:;Right;|
+Batting average:.285;|
+Home runs:358;|
+Runs batted in:1,430;|
+Managerial record:484–444;|
+Winning %:.522;|
+As player:New York Yankees;1946;–;1963;New York Mets;1965;As manager;New York Yankees;1964;New York Mets;1972;–;1975;New York Yankees;1984;–;1985;As coach;New York Mets;1965;–;1971;New York Yankees;1976;–;1983;Houston Astros;1986;–;1989;|
+18×:All-Star;1948;–;1961²;1962²;13×;World Series;champion ;1947;1949;–;1953;1956;1958;1961;1962;1969;1977;1978;3×;AL MVP;1951, 1954, 1955;New York Yankees No. 8;retired;Major League Baseball All-Century Team;|
+Inducted:1972;|
+Vote:85.61% second ballot;|

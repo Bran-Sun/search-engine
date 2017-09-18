@@ -1,0 +1,14 @@
+John Watts Young
+NASA:Astronaut;|
+Nationality:American;|
+Status:Retired;|
+Born:1930-09-24;September 24, 1930;age 86;San Francisco;California; U.S.;|
+Other occupation:Naval aviator;test pilot;|
+Alma mater:Georgia Institute of Technology; B.S. 1952;|
+Rank:Captain;USN;|
+Time in space:34d 19h 39m;|
+Selection:1962 NASA Group 2;|
+Total:EVAs;3;|
+Total EVA time:20h 14m 14s;|
+Missions:Gemini 3;Gemini 10;Apollo 10;Apollo 16;STS-1;STS-9;|
+Retirement:December 31, 2004;|

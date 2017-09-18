@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block css %}
+{% load static %}
+<link rel="stylesheet" href="../static/css/index.css" type="text/css" />
+{% endblock %}
+
+{% block title %}Search_form{% endblock %}
+
+{% block content %}
+<div id="logo" style="text-align: center; margin-top: 10%">
+    {% load staticfiles %}
+    <img src="{% static "webpicture/search.png" %}" width = 800px; height = 300px; alt="bg image"/>
+</div>
+
+<form action="/search/" method="get">
+    <div  style=" height: 350px; width: 100%; text-align: center; margin-top: 0; font-size: 30px;">
+        <input class = "input_search" type="text" name="q" width = "200" height = "80"><br />
+        Born:
+        <input class = "input_search" type="text" name="born" width = "200" height = "80"><br />
+        Nationality:
+        <input class = "input_search" type="text" name="nationality" width = "200" height = "80"><br />
+        occupation:
+        <input class = "input_search" type="text" name="occupation" width = "200" height = "80"><br />
+
+        <input type="submit" value="Search" class = "button">
+    </div>
+</form>
+{% endblock %}
+
+{% block footer %}
+<div style="text-align: center; margin-top: 50; font-size: 30px; color:orange;">
+    <p>Thanks for visiting my site.</p>
+</div>
+{% endblock %}

@@ -1,0 +1,26 @@
+Full name:George Alfred Lohmann;|
+Born:1865-06-02;2 June 1865;Kensington;Middlesex; England;|
+Died:1 December 1901;1901-12-01;aged 36;Worcester;British Cape Colony;|
+Batting style:Right-handed;|
+Bowling style:Right arm;medium-fast;|
+National side:England;|
+Test debut:cap;51;5 July 1886 v;Australia;|
+Last Test:24 June 1896 v;Australia;|
+Years:Team;|
+1884–1896:Surrey;|
+1894–1897:Western Province;|
+Competition:Test;First-class;Matches;18;293;Runs scored;213;7,247;Batting average;8.87;18.67;100s/50s;0/1;3/29;Top score;62*;115;Balls;bowled;3,830;71,724;Wickets;112;1,841;Bowling average;10.75;13.73;5 wickets in;innings;9;176;10 wickets in match;5;57;Best bowling;9/28;9/28;Catches/;stumpings;28/–;337/–;|
+Competition:Test;First-class;|
+Matches:18;293;|
+Runs scored:213;7,247;|
+Batting average:8.87;18.67;|
+100s/50s:0/1;3/29;|
+Top score:62*;115;|
+Balls:bowled;3,830;71,724;|
+Wickets:112;1,841;|
+Bowling average:10.75;13.73;|
+5 wickets in:innings;9;176;|
+10 wickets in match:5;57;|
+Best bowling:9/28;9/28;|
+Catches/:stumpings;28/–;337/–;|
+Source::Cricinfo; 1 October 2009;|

@@ -1,0 +1,12 @@
+Alan Wiggins
+Wiggins with the:San Diego Padres;in 1983;|
+Outfielder:Second baseman;|
+Born::1958-02-17;February 17, 1958;Los Angeles, California;|
+Died::January 6, 1991;1991-01-06;aged 32;Los Angeles, California;|
+Batted::Switch;Threw:;Right;|
+Batted::Switch;Threw:;Right;|
+Batting average:.259;|
+Home runs:5;|
+Runs batted in:118;|
+Stolen bases:242;|
+San Diego Padres:1981–1985;Baltimore Orioles;1985–1987;|
